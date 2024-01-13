@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Aayush Thakur
-- 👀 I’m interested in Web Developement, Python, C, C++, Java
-- 🌱 I’m currently learning Web Developement
+- 👀 I’m interested in Web Development, Python, C, C++, Java
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 Reach me: aayu.takur@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love to watch web series
+- ⚡ Fun fact: Intermediate Chess Player
 
 <!---
 theaayushthakur/theaayushthakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
